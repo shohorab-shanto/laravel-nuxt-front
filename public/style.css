@@ -1,0 +1,61 @@
+.error{
+    display: block;
+    color: red;
+    width: 100%;
+}
+
+.page-link:focus{
+    z-index: unset !important;
+    outline: unset !important;
+    box-shadow: unset !important;
+}
+
+.custom-navbar-background{
+    background-color: #7bd2ef !important;
+    color: #000 !important;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: #000 !important;
+}
+
+.navbar-user-info{
+    margin: 0;
+    padding-left: 1rem;
+    text-align: right;
+    line-height: 1.2;
+}
+
+.navbar-user-logo{
+    padding-left: 0.5rem !important;
+    padding-top: 0 !important;
+    margin-top: -4.1px;
+}
+
+.navbar-user-logo img{
+    height: 50px;
+}
+
+.left-logo {
+    /* float: left; */
+    line-height: .8;
+    margin-left: .8rem;
+    margin-right: .8rem;
+    margin-top: -3px;
+    max-height: 50px;
+    width: auto;
+}
+
+.right-logo {
+    /* float: right; */
+    line-height: .8;
+    margin-left: .8rem;
+    margin-right: .8rem;
+    margin-top: -3px;
+    max-height: 50px;
+    width: auto;
+}
+
+.brand-link{
+    padding: 0.3rem 0.5rem !important;
+}
